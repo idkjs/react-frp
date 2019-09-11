@@ -1,0 +1,18 @@
+{
+  "name": "@idkjs/react-frp",
+  "version": "1.2.1",
+  "scripts": {
+    "build": "bsb -make-world",
+    "start": "bsb -make-world -w",
+    "clean": "bsb -clean-world",
+    "pub": "npx np --yolo"
+  },
+  "keywords": [
+    "BuckleScript"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "5.0.6"
+  },
+  "dependencies": {}
+}
