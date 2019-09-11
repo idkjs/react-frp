@@ -1,4 +1,11 @@
-React — Declarative events and signals for OCaml
+# Update
+
+This is just a publication of the bucklescript files needed to run the [`@denommus/react-react`](https://github.com/Denommus/react-react/tree/master) npm program.
+
+Please refer there for anything.
+
+## React — Declarative events and signals for OCaml
+
 -------------------------------------------------------------------------------
 Release %%VERSION%%
 
@@ -10,7 +17,7 @@ signal, it lets the client chooses the concrete timeline.
 React is made of a single, independent, module and distributed under
 the ISC license.
 
-Home page: http://erratique.ch/software/react  
+Home page: http://erratique.ch/software/react
 Contact: Daniel Bünzli `<daniel.buenzl i@erratique.ch>`
 
 
